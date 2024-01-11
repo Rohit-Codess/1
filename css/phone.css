@@ -1,0 +1,41 @@
+html{
+    scroll-behavior: smooth;
+}
+#navbar{
+    flex-direction: column;
+}
+#logo img{
+    height: 40px;
+}
+#navbar ul li a{
+    padding: 3px 17px;
+}
+.h-primary{
+    font-size: 2.3rem;
+    padding: 10px;
+}
+#Home {
+    Padding:0px;
+    height: 400px;
+
+}
+#Home::before {
+    height: 488px;
+}
+#Home p{
+    font-size: 1rem;
+}
+#services{
+    flex-direction: column;
+}
+#services .box{
+    padding: 10px;
+    margin:10px ;
+}
+#client img {
+    height: 60px;
+}
+#client-section{
+    height:190px;
+    position: relative;
+}
